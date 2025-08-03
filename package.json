@@ -12,8 +12,8 @@
   "license": "ISC",
   "description": "",
   "engines": {
-  "node": "22.11.0"
-},
+    "node": "22.11.0"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^17.2.1",
